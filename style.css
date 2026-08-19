@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&display=swap');
 :root{
---coral-claro: #f08080ff;
+
+    --coral-claro: #f08080ff;
 --salmão-adocicado: #f4978eff;
 --rosa-bebês: #f8ad9dff;
 --peach-fuzz: #fbc4abff;
+---titulo: "Caveat", cursive;
+---texto:"Dancing Script", cursive;
 }
